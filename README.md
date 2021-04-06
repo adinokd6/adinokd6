@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - 🌱 I’m currently learning basics of game hacking and C#.
 - 🔭 I’m currently programming tutor in Python and student of Cybersecurity.
 - 💖 Interested in Linux solving problems.
